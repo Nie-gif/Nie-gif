@@ -2,8 +2,7 @@
 
  I'm Dinie
 
-💻 Tech Stack:
-C++
+
 
 🔭 Currently studying in Network Security
 
