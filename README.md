@@ -24,10 +24,7 @@ C++
        alt="YouTube Channel" 
        width="120"/>
 </a>     
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <a href="https://www.linkedin.com/in/dinie-adlyn-b574ab3a2" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
        alt="LinkedIn Profile"
