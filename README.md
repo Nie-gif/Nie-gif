@@ -14,7 +14,6 @@
 
 
 ## 🌐 Socials:
-## 🔗 Connect with Me
 <a href="https://www.youtube.com/@Nie2173" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
        alt="YouTube Channel" 
