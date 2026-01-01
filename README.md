@@ -19,8 +19,11 @@ C++
 
 ## 🌐 Socials:
 ## 🔗 Connect with Me
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](http://www.youtube.com/@NIE2173)
+<a href="https://www.youtube.com/@YourChannelName" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+       alt="YouTube Channel" 
+       width="120"/>
+</a>(http://www.youtube.com/@NIE2173)
 
 
 # 💻 Tech Stack:
